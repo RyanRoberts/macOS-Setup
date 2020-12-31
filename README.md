@@ -1,60 +1,45 @@
 # macOS-Setup
 
-The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my mac, i'll know exactly what to do.
+The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my Mac, I'll know exactly what to do.
 
-<p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
-
-<p>⚡️ must haves |  💰 paid  |  🔄 subscription  |  ✅ free </p>
+<p>🥇 must haves |  💰 paid  |  🔄 subscription  |  ✅ free</p>
 
 <h2>Software</h2>
 
 <h3>Browsers</h3>
   <ul>
-    <li>Brave: A chromium based browser - https://brave.com/ ⚡️ | ✅</li>
-    <li> <a href="#firefox-1">Firefox (setup):</a> The king of browsers - https://www.mozilla.org/en-US/firefox/new/ ⚡️ | ✅</li>
+    <li>Safari: Built in and better than people think 🥇 | ✅</li>
+    <li><a href="#firefox-1">Firefox (setup):</a> The king of browsers - https://www.mozilla.org/en-US/firefox/new/ 🥇 | ✅</li>
   </ul>
   
 <h3>Communication</h3>
 <ul>
-    <li>Colloquy: IRC Client - https://github.com/colloquy/colloquy ✅</li>
-    <li>Discord: Feauture packed VoIP client with endless interesting serves - https://discord.com/ ⚡️ | ✅</li>
-    <li>Microsoft Outlook: E-mail client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ⚡️ | 💰</li>
-    <li>Signal: End-to-end encrypted messaging service - https://signal.org/#signal ⚡️ | ✅</li>
-    <li>Whatsapp Desktop: macOS Whatsapp wrapper - https://www.whatsapp.com/download ⚡️ | ✅</li>
+  <li>Spark: E-mail client of choice - https://sparkmailapp.com 🥇 | ✅</li>
+  <li>Discord: Feauture packed VoIP client with endless interesting serves - https://discord.com 🥇 | ✅</li>
 </ul>
 
 <h3>Creative</h3>
 <ul>
-   <li>Adobe Illustrator: Vector graphics - https://www.adobe.com/products/illustrator.html ⚡️ | 💰</li>
-   <li>Adobe InDesign: Layout design & desktop publishing - https://www.adobe.com/products/indesign.html ⚡️ | 💰</li>
-   <li>Adobe Photoshop: Photo, image & design editing - https://www.adobe.com/products/photoshop.html ⚡️ | 💰</li>
+   <li>Sketch: Vector UI design - https://www.sketch.com 🥇 | 🔄</li>
+   <li>Affinity Publisher: Layout design & desktop publishing - https://affinity.serif.com/en-gb/publisher/ 🥇 | 💰</li>
+   <li>Pixelmator Pro: Photo, image & design editing with ML - https://www.pixelmator.com/pro/ 🥇 | 💰</li>
  </ul>
  
  <h3>Media</h3>
- <ul>
-  <li>Apple Books: Ebook reader ⚡️ </li>
-  <li>Calibre: Ebook managment: https://www.google.com/search?client=firefox-b-d&q=calibre ⚡️ | ✅</li>
-  <li>IINA: Open source media player - https://iina.io/ ⚡️ | ✅</li>
-  <li>Spotify: Music streaming - https://www.spotify.com/ ⚡️ | 💰</li>
+  <ul>
+    <li>IINA: Open source media player - https://iina.io/ 🥇 | ✅</li>
   </ul>
    
 <h3>Productivity</h3>
   <ul>
-    <li> <a href="#alfred-1">Alfred (setup):</a> A superior Spotlight replacment - https://www.alfredapp.com/ ⚡️ | 💰=</li>
-    <li>AltTab: An open source, windows style tab switcher - https://alt-tab-macos.netlify.app/ ⚡️ | ✅ </li>
-    <li>BetterTouchTool: An indispensible input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/ ⚡️ | 💰</li>
-    <li>Dropzone 4: A menubar drag and drop enhancer - https://aptonic.com/ 💰</li>
-    <li>Grid: A window manager with gesture support - https://macgrid.app/ ⚡️ | 💰</li>
+    <li><a href="#raycast-1">Raycast (setup):</a> A superior Spotlight replacment - https://raycast.com 🥇</li>
   </ul>
   
 <h3>
 <h3>Security</h3>
   <ul>
-    <li>Bitwarden: Open source password manager - https://bitwarden.com/ ⚡️ | ✅</li>
-    <li>Hosts File Adblock List: I use this list to block ads system wide - https://someonewhocares.org/hosts/ ⚡️ | ✅</li>
+    <li>1Password: Password manager - https://1password.com 🥇 | 🔄</li>
     <li>Micro Snitch: A microphone & camera activity monitor - https://www.obdev.at/products/microsnitch/index.html 💰</li>
-    <li>NordVPN: A VPN service - https://nordvpn.com 💰 | 🔁</li>
-    <li>Windscribe: VPN service with free 10gb/month - https://windscribe.com 💰 | 🔁</li>
   </ul>
   
   <h3>Utilities</h3>
